@@ -1,0 +1,6 @@
+framework module Pods_motinoti {
+  umbrella header "Pods-motinoti-umbrella.h"
+
+  export *
+  module * { export * }
+}
